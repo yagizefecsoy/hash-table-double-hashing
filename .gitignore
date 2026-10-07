@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Java build output
+out/
+bin/
+*.class
